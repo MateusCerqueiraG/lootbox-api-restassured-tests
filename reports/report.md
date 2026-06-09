@@ -1,5 +1,5 @@
 # Relatório de Testes de API: API LOOTBOX
-**Autor:** Mateus
+**Autor:** Mateus <br>
 **Framework:** REST-assured (Java / JUnit 5)
 
 ---
